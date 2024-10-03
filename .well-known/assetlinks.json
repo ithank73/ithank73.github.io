@@ -1,0 +1,12 @@
+[
+    {
+        "relation": ["delegate_permission/common.handle_all_urls"],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.peoplenjob.app",
+            "sha256_cert_fingerprints":
+            ["3C:83:0A:C5:74:BE:03:0E:72:5F:2B:0D:66:42:E5:94:92:BF:7F:64:AC:6C:CC:60:B3:DC:F3:33:7E:EF:5B:BD"]
+        }
+    }
+]
+
