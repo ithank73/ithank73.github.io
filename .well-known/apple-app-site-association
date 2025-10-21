@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "5Y8G5MKHD9.com.peoplenjob.app.dev",
+        "paths": [
+          "/jobs/*",
+          "/jobfairs/*/jobs/*",
+          "/curations/*/jobs/*"
+        ]
+      }
+    ]
+  }
+}
