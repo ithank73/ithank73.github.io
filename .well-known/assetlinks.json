@@ -1,12 +1,10 @@
-[
-    {
-        "relation": ["delegate_permission/common.handle_all_urls"],
-        "target": {
-            "namespace": "android_app",
-            "package_name": "com.peoplenjob.app",
-            "sha256_cert_fingerprints":
-            ["3C:83:0A:C5:74:BE:03:0E:72:5F:2B:0D:66:42:E5:94:92:BF:7F:64:AC:6C:CC:60:B3:DC:F3:33:7E:EF:5B:BD"]
-        }
-    }
-]
-
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.peoplenjob.app.dev",
+    "sha256_cert_fingerprints": [
+      "F6:2C:72:C1:81:03:94:E1:EB:F9:9E:ED:E8:E9:84:3D:90:F3:9F:47:47:4C:61:F9:82:EF:F1:5B:02:BC:3E:5A"
+    ]
+  }
+}]
